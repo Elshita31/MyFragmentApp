@@ -17,7 +17,7 @@ splash_brand_logo.xml berfungsi untuk mengatur warna latar splash screen dibagia
 <h4>Hasilnya seperti berikut: </h4>
 <img src="1.jpg" height="600px" width="300px">
 
-<h5></h5>
+<h4>Jadi ketika aplikasi My Fragment App dibuka, layar yang pertama kali muncul adalah splash screen tersebut selama 3 detik.</h4>
 
 <h2>Fragment</h2>
 <h4>Fragment merupakan salah satu komponen pada Android Studio dengan fungsi yang hampir sama seperti activity tetapi memiliki “lifecycle” yang berbeda. 
