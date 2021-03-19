@@ -8,9 +8,12 @@
 
 splash_brand_logo.xml berfungsi untuk mengatur warna latar splash screen dibagian. Di bawahnya saya menambah komponen logo dengan mengatur tinggi, lebar, dan sumber gambarnya. 
 </h5>
-<h5></h5>
-<h5></h5>
-<h5></h5>
+<h5>2. Berikutnya, saya mengatur style khusus untuk splash screen di styles.xml.
+</h5>
+<h5>3. Setelah selesai mengatur style, buat file java baru dan beri nama SplashActivity.java File Java ini akan kita jadikan sebagai splash screen. 
+</h5>
+<h5>4. Saya menambahkan Activity SplashActivity.java ke AndroidManifest.xml sendiri. Dan mengatur agar SplashActivity dipanggil sebagai activity pertama saat memanggil.
+</h5>
 <h5></h5>
 <h5></h5>
 <h5></h5>
