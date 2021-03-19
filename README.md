@@ -14,12 +14,17 @@ splash_brand_logo.xml berfungsi untuk mengatur warna latar splash screen dibagia
 </h4>
 <h4>4. Saya menambahkan Activity SplashActivity.java ke AndroidManifest.xml sendiri. Dan mengatur agar SplashActivity dipanggil sebagai activity pertama saat memanggil.
 </h4>
-<h5></h5>
-<h5></h5>
+<h4>Hasilnya seperti berikut: </h4>
+<img src="1.jpg" height="600px" width="300px">
+
 <h5></h5>
 
+<h2>Fragment</h2>
+<h4>Fragment merupakan salah satu komponen pada Android Studio dengan fungsi yang hampir sama seperti activity tetapi memiliki “lifecycle” yang berbeda. 
+Fragment merupakan bagian dari sebuah activity yang mana sebuah fragment tidak akan ada bila tidak ada sebuah activity karena fragment membutuhkan akses 
+dari activity untuk dapat dijalankan.</h4>
 
-<h2>Lifecycle Fragment</h2>
+<h3>Lifecycle Fragment</h3>
 <img src="fragment lifecycle.jpg" height="600px" width="300px">
 <h4>Keterangan</h4>
 
@@ -34,3 +39,8 @@ splash_brand_logo.xml berfungsi untuk mengatur warna latar splash screen dibagia
 <h5>•	onDestroyView() dipanggil saat layout sebuah fragment akan dihapus dari memori, namun fragmentnya masih ada di memori.</h5> 
 <h5>•	onDestroy() adalah kondisi saat Activity dihancurkan pada memori.</h5>  
 <h5>•	onDetach() dipanggil saat fragment tidak lagi terhubung ke sebuah activity.</h5> 
+
+<h4>Hasilnya seperti berikut: </h4>
+<img src="2.jpg" height="600px" width="300px">
+<img src="3.jpg" height="600px" width="300px">
+
