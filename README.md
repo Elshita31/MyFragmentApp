@@ -44,5 +44,8 @@ dari activity untuk dapat dijalankan.</h4>
 <img src="2.jpg" height="600px" width="300px">
 <img src="3.jpg" height="600px" width="300px">
 
+<h6>Finally, after crying bombay because of an error, hehe.
+Thank You Sir!</h6>
+
 <h3>Best regards, Elshita Indah Cahyani</h3>
 
