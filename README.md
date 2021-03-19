@@ -1,8 +1,8 @@
 <h1>TUGAS FRAGMENT VIEW MODEL</h1>
-<h5>Pada Aplikasi MyFragment App ini, saya membuat berupa Splash Screen dan 2 Fragment. Sebelum itu saya akan menjelaskan tentang apa itu Splash Screen dan Fragment. </h5>
+<h4>Pada Aplikasi MyFragment App ini, saya membuat berupa Splash Screen dan 2 Fragment. Sebelum itu saya akan menjelaskan tentang apa itu Splash Screen dan Fragment. </h4>
 
 <h2>Splash Screen</h2>
-<h5>Splash screen adalah istilah yang diberikan pada layar pembuka setiap kali kita menjalankan sebuah aplikasi Android. Seperti saat kita membuka aplikasi Whatsapp, layar yang pertama kali ditujukkan adalah berupa logo Whatsapp, itulah yang dinamakan dengan Splash Screen. Alur pembuatan Splash Screen aplikasi My Fragment App adalah berikut:</h5>
+<h4>Splash screen adalah istilah yang diberikan pada layar pembuka setiap kali kita menjalankan sebuah aplikasi Android. Seperti saat kita membuka aplikasi Whatsapp, layar yang pertama kali ditujukkan adalah berupa logo Whatsapp, itulah yang dinamakan dengan Splash Screen. Alur pembuatan Splash Screen aplikasi My Fragment App adalah berikut:</h4>
 
 <h5>1. Buat file baru bernama splash_brand_logo.xml di folder /res/drawable
 
