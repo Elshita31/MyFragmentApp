@@ -4,16 +4,16 @@
 <h2>Splash Screen</h2>
 <h4>Splash screen adalah istilah yang diberikan pada layar pembuka setiap kali kita menjalankan sebuah aplikasi Android. Seperti saat kita membuka aplikasi Whatsapp, layar yang pertama kali ditujukkan adalah berupa logo Whatsapp, itulah yang dinamakan dengan Splash Screen. Alur pembuatan Splash Screen aplikasi My Fragment App adalah berikut:</h4>
 
-<h5>1. Buat file baru bernama splash_brand_logo.xml di folder /res/drawable
+<h4>1. Buat file baru bernama splash_brand_logo.xml di folder /res/drawable
 
 splash_brand_logo.xml berfungsi untuk mengatur warna latar splash screen dibagian. Di bawahnya saya menambah komponen logo dengan mengatur tinggi, lebar, dan sumber gambarnya. 
-</h5>
-<h5>2. Berikutnya, saya mengatur style khusus untuk splash screen di styles.xml.
-</h5>
-<h5>3. Setelah selesai mengatur style, buat file java baru dan beri nama SplashActivity.java File Java ini akan kita jadikan sebagai splash screen. 
-</h5>
-<h5>4. Saya menambahkan Activity SplashActivity.java ke AndroidManifest.xml sendiri. Dan mengatur agar SplashActivity dipanggil sebagai activity pertama saat memanggil.
-</h5>
+</h4>
+<h4>2. Berikutnya, saya mengatur style khusus untuk splash screen di styles.xml.
+</h4>
+<h4>3. Setelah selesai mengatur style, buat file java baru dan beri nama SplashActivity.java File Java ini akan kita jadikan sebagai splash screen. 
+</h4>
+<h4>4. Saya menambahkan Activity SplashActivity.java ke AndroidManifest.xml sendiri. Dan mengatur agar SplashActivity dipanggil sebagai activity pertama saat memanggil.
+</h4>
 <h5></h5>
 <h5></h5>
 <h5></h5>
